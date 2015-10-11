@@ -1,0 +1,11 @@
+// Import Custom components
+@import "custom-components/normalize.scss";
+@import "custom-components/variables.scss";
+@import "custom-components/grid.scss"; // Readme to configure the grid
+
+
+// Import Custom partials
+@import "partials/introduction.scss"; // Remove me before starting
+@import "partials/common.scss";
+@import "partials/common-header.scss";
+@import "partials/common-footer.scss";
